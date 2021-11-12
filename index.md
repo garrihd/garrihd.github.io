@@ -1,15 +1,7 @@
 ## Martin Marinkov
 
-You can use the [editor on GitHub](https://github.com/garrihd/garrihd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello ! My name is Martin Marinkov. I am a linguistics student who would like to enter the world of IT. I am currently studying Python and am making good progress too ! I love what technology has to offer. It has improved our lives and can continue to do so and I would like to be a part of that !
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
 
 # Header 1
 ## What's up
