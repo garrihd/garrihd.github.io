@@ -35,6 +35,7 @@ The Art Of Code. Coding is as much of a science as it is art. Everyone has their
 6. Simple BlackJack Game on [Replit](https://replit.com/@MartinMarinkov/Guessing-Game#main.py){:target="_blank" rel="noopener"}
 7. String Search Algorithm for University Paper [Codeskulptor](https://py3.codeskulptor.org/#user306_qxVerUImlC_0.py){:target="_blank" rel="noopener"}
 8. Guess Which is Greater Game [Codeskulptor](https://py3.codeskulptor.org/#user306_LjjF67XLic_2.py){:target="_blank" rel="noopener"}
+9. Coffe Machine Game (Prototype / Work in Progress) [Codeskulptor](https://py3.codeskulptor.org/#user306_XJANA6923Y_0.py){:target="_blank" rel="noopener"}
 
 
 
