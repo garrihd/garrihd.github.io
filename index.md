@@ -20,13 +20,8 @@ The Art Of Code. Coding is as much of a science as it is art. Everyone has their
 3. Stopwatch the game on [Codeskulptor](https://py2.codeskulptor.org/#user48_CnXNkWCiTK_3.py)
 4. Rock/Paper/Scissors/Lizard/Spock *RPSLS* game on [Codeskulptor](https://py2.codeskulptor.org/#user48_AxCFnhaaaC_1.py)
 5. Memory game on [Codeskulptor](https://py3.codeskulptor.org/#user306_Y8Fnlvw5Qe_23.py)
+6. Simple BlackJack Game on [Replit](https://replit.com/@MartinMarinkov/Guessing-Game#main.py)
+7. String Search Algorithm for University Paper [Codeskulptor](https://py3.codeskulptor.org/#user306_qxVerUImlC_0.py)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/garrihd/garrihd.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
