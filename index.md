@@ -14,6 +14,9 @@ Hello ! My name is Martin Marinkov. I am a linguistics student who would like to
 
 
 1. Pong game on [Codeskulptor](https://py2.codeskulptor.org/#user48_hgBv6tH2Im_11.py)
+2. Guess the Number game on [Codeskulptor](https://py2.codeskulptor.org/#user48_WHg3mvmWy4_7.py)
+3. Stopwatch the game on [Codeskulptor](https://py2.codeskulptor.org/#user48_CnXNkWCiTK_3.py)
+4. Rock/Paper/Scissors/Lizard/Spock *RLPS* game on [Codeskulptor](https://py2.codeskulptor.org/#user48_AxCFnhaaaC_1.py)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
