@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Martin Marinkov
 
 You can use the [editor on GitHub](https://github.com/garrihd/garrihd.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
