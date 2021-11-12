@@ -5,10 +5,12 @@ Hello ! My name is Martin Marinkov. I am a linguistics student who would like to
 
 # Header 1
 ## What's up
-### Header 3
+### Some of  the games I've done with Python
 
-- Bulleted
-- List
+- Pong
+- Rock Paper Scissors Lizard Spock
+- Guess The Number 
+- Stopwatch
 
 1. Numbered
 2. List
