@@ -3,9 +3,9 @@
 Hello ! My name is Martin Marinkov. I am a linguistics student who would like to enter the world of IT. I am currently studying Python and am making good progress too ! I love what technology has to offer. It has improved our lives and can continue to do so and I would like to be a part of that !
 
 
-# Header 1
+# Why Programming ?
 The Art Of Code. Coding is as much of a science as it is art. Everyone has their own **way** of coding a task. Everyone has their own *signature* coding style. I am working on developing my own. It takes time, practice, dedication and patience.
-## What's up
+## A small portfolio
 ### Some of  the games I've done with Python
 
 - Pong
