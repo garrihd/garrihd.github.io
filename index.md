@@ -1,11 +1,10 @@
 ## Martin Marinkov
-<div class="hero">
-<img src="https://github.com/garrihd/garrihd.github.io/raw/main/assets/Martin_Marinkov_matrix_web.jpg" alt="Martin Marinkov photo">
-<div class="intro">
+
+<img class="photo" src="https://github.com/garrihd/garrihd.github.io/raw/main/assets/Martin_Marinkov_matrix_web.jpg" alt="Martin Marinkov photo">
+
 Hello! My name is Martin Marinkov. I am a linguistics Bachelors student at the [University of Bamberg](https://www.uni-bamberg.de/en/){:target="_blank" rel="noopener"} (Germany) who would like to enter the world of IT. I am currently studying Python and am making good progress too! I love what technology has to offer. It has improved our lives and can continue to do so and I would like to be a part of that! I am particularly interested in natural language processing with Python which combines both my linguistic and programming skills.
 
-[CV](https://github.com/garrihd/garrihd.github.io/raw/main/assets/Martin_Marinkov_2021_CV.pdf){:target="_blank" rel="noopener"}
-  </div></div>
+download my [CV](https://github.com/garrihd/garrihd.github.io/raw/main/assets/Martin_Marinkov_2021_CV.pdf){:target="_blank" rel="noopener"}
   
 # Why Programming ?
 The Art Of Code. Coding is as much of a science as it is art. Everyone has their own **way** of coding a task. Everyone has their own *signature* coding style. I am working on developing my own. It takes time, practice, dedication and patience and I am confidently progressing.
