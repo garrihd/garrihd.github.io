@@ -14,7 +14,7 @@ download my [CV](https://github.com/garrihd/garrihd.github.io/raw/main/assets/Ma
 
 <div class="spacer"></div>
 
-# Why Programming ?
+# Why Programming?
 The Art Of Code. Coding is as much of a science as it is art. Everyone has their own **way** of coding a task. Everyone has their own *signature* coding style. I am working on developing my own. It takes time, practice, dedication and patience and I am confidently progressing.
 
 ## A small portfolio
