@@ -12,14 +12,8 @@ Hello ! My name is Martin Marinkov. I am a linguistics student who would like to
 - Guess The Number 
 - Stopwatch
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-Pong game on [Codeskulptor](https://py2.codeskulptor.org/#user48_hgBv6tH2Im_11.py)
+1. Pong game on [Codeskulptor](https://py2.codeskulptor.org/#user48_hgBv6tH2Im_11.py)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
