@@ -2,6 +2,7 @@
   header .container{display: none;}
   .photo{float: left;
 margin-right: 20px;}
+  .spacer{min-height: 30px;}
   </style>
 ## Martin Marinkov
 
@@ -11,7 +12,8 @@ Hello! My name is Martin Marinkov. I am a linguistics Bachelors student at the [
 
 download my [CV](https://github.com/garrihd/garrihd.github.io/raw/main/assets/Martin_Marinkov_2021_CV.pdf){:target="_blank" rel="noopener"}
 
-  
+<div class="spacer"></div>
+
 # Why Programming ?
 The Art Of Code. Coding is as much of a science as it is art. Everyone has their own **way** of coding a task. Everyone has their own *signature* coding style. I am working on developing my own. It takes time, practice, dedication and patience and I am confidently progressing.
 
